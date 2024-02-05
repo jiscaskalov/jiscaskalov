@@ -1,5 +1,5 @@
 # Hello
-My name is jiscaskalov or jsco, just another software developer that is still learning.
+My name is jiscaskalov or jsco, just another guy that is still learning.
 
 I currently know java and C#, however I am currently learning C++.
 
